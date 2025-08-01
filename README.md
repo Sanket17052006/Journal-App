@@ -1,2 +1,2 @@
 # Journal-App
-Backend for a journal application featuring a RESTful API built with Java, Spring Boot, and MongoDB.
+A personal journal application with a RESTful API backend. Currently being built with Java and the Spring Boot framework, with plans to integrate a NoSQL database (MongoDB) for data persistence. This project demonstrates modern backend development practices.
